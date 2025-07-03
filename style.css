@@ -167,3 +167,12 @@ button:hover {
   margin: 20px auto;
   width: auto;
 }
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  background-color: rgb(33, 34, 36);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgb(2, 51, 51);
+}
