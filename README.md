@@ -4,17 +4,17 @@ Projeto desenvolvido para a disciplina de **Fundamentos da Programação Web**, 
 
 ## 📁 Estrutura do Projeto
 
-├── index.html # Página Sobre Mim
+├── index.html  # Página Sobre Mim
 
-├── formacao.html # Formação Acadêmica e Idiomas
+├── formacao.html  # Formação Acadêmica e Idiomas
 
-├── portfolio.html # Projetos e Portfólio
+├── portfolio.html  # Projetos e Portfólio
 
-├── contato.html # Página de Contato (formulário visual)
+├── contato.html  # Página de Contato (formulário visual)
 
-├── style.css # Estilização geral do site
+├── style.css  # Estilização geral do site
 
-└── imagens/ # (opcional) Pasta para imagens
+└── imagens/  # (opcional) Pasta para imagens
 
 markdown
 Copiar
