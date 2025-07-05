@@ -5,10 +5,15 @@ Projeto desenvolvido para a disciplina de **Fundamentos da Programação Web**, 
 ## 📁 Estrutura do Projeto
 
 ├── index.html # Página Sobre Mim
+
 ├── formacao.html # Formação Acadêmica e Idiomas
+
 ├── portfolio.html # Projetos e Portfólio
+
 ├── contato.html # Página de Contato (formulário visual)
+
 ├── style.css # Estilização geral do site
+
 └── imagens/ # (opcional) Pasta para imagens
 
 markdown
@@ -25,9 +30,8 @@ Editar
 
 ## 🔗 Acesso ao Site
 
-[Link do Portfólio publicado aqui](https://SEU-LINK-AQUI)
+[Link do Portfólio publicado aqui](https://gabrielfj08.github.io/Trabalho_Faculdade/)
 
-*Obs: Substituir pelo link da hospedagem gratuita (Netlify, 000Webhost, etc.)*
 
 ## 📄 Funcionalidades
 
